@@ -1,5 +1,5 @@
-#pragma once  //this is new (which not inlcuded on the class we have learned). 
-//I used 'pragma once' because it avoids multiple class with single names
+#pragma once  //this is new (which is not inlcuded during the class that we have learned). 
+//I used 'pragma once' because it avoids multiple classes with single names
 
 
 #include <string>
